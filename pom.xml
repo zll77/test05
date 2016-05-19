@@ -6,9 +6,9 @@
   <build>
      <plugins>
          <plugin>
-             <groupId>com.tgb</groupId>
-             <artifactId>mavenTest1</artifactId>
-             <version>0.0.1-SNAPSHOT</version>
+             <groupId>com.lazerycode.jmeter</groupId>
+             <artifactId>jmeter-maven-plugin</artifactId>
+             <version>1.4.1</version>
                  <configuration>
                      <resultsFileFormat>xml</resultsFileFormat>
                      <ignoreResultFailures>true</ignoreResultFailures>
